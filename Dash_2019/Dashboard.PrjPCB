@@ -190,7 +190,11 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
+<<<<<<< HEAD
 TargetPrinter=OneNote
+=======
+TargetPrinter=HP ENVY 4500 series (nettverk)
+>>>>>>> 4e982e546d39337443f072b45d5a01832328a79d
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
