@@ -1,0 +1,12 @@
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=Net1_30 Pin=R8-1
+Added Member To Class: ClassName=Side PCB Member=Component * JST_SE5PIN
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Room: Name=Side PCB

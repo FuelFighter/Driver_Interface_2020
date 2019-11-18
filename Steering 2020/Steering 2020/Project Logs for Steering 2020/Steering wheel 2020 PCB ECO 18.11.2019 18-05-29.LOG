@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=Net1_36 Pin=1-36
+Removed Pin From Net: NetName=Net1_29 Pin=P1-21
+Removed Pin From Net: NetName=Net1_30 Pin=P1-22
+Removed Pin From Net: NetName=Net1_33 Pin=P2-1
+Removed Pin From Net: NetName=Net1_35 Pin=P2-3
+Removed Pin From Net: NetName=Net1_33 Pin=P5-2
+Removed Pin From Net: NetName=Net1_35 Pin=P5-5
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(R_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=Net1_29 Pin=P2-1
+Added Pin To Net: NetName=Net1_30 Pin=P2-3
+Added Pin To Net: NetName=Net1_29 Pin=P5-2
+Added Pin To Net: NetName=Net1_30 Pin=P5-5
+Change Net Name : Old Net Name=Net1_36 New Net Name=NetP2_4
+Added Pin To Net: NetName=Net1_36 Pin=1-36
+Added Net: Name=Net1_36
+Added Pin To Net: NetName=NetP1_21 Pin=P1-21
+Added Net: Name=NetP1_21
+Added Pin To Net: NetName=NetP1_22 Pin=P1-22
+Added Net: Name=NetP1_22
+Added Member To Class: ClassName=Side PCB Member=Component * JST_SE5PIN
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component R9 SMD
+Added Room: Name=Side PCB

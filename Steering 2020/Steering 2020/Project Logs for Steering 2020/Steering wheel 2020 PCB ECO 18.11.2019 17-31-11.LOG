@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=+3.3 Pin=3.3-1
+Removed Pin From Net: NetName=+3.3 Pin=3.3-2
+Removed Pin From Net: NetName=+3.3 Pin=3.3-3
+Removed Pin From Net: NetName=+3.3 Pin=3.3-4
+Removed Pin From Net: NetName=+3.3 Pin=3.3-5
+Removed Pin From Net: NetName=+3.3 Pin=3.3-6
+Change Component Comment : Designator=5v Old Comment=Comment New Comment=Header 3*2
+Change Component Comment : Designator=GND Old Comment=Comment New Comment=Header 3*2
+Change Component Designator: OldDesignator=CAN NewDesignator=Header 4
+Change component parameters: Designator = "5v"; UniqueID = "\LLLOYFLA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "GND"; UniqueID = "\AOJLSFZI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(JST_SE_5PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(JST_SE_5PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P5(JST_SE_5PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(R_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(R_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(R_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=+3.3 Pin=1-34
+Added Pin To Net: NetName=+3.3 Pin=1-36
+Added Pin To Net: NetName=+3.3 Pin=P2-2
+Added Pin To Net: NetName=+3.3 Pin=P2-4
+Added Pin To Net: NetName=+3.3 Pin=P3-1
+Added Pin To Net: NetName=+3.3 Pin=P3-2
+Added Pin To Net: NetName=+3.3 Pin=P3-3
+Added Pin To Net: NetName=Net1_32 Pin=P3-4
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=Net1_33 Pin=P4-1
+Added Pin To Net: NetName=Net1_35 Pin=P4-3
+Added Pin To Net: NetName=Net1_31 Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=Net1_33 Pin=P5-2
+Added Pin To Net: NetName=+3.3 Pin=P5-3
+Added Pin To Net: NetName=Net1_31 Pin=P5-4
+Added Pin To Net: NetName=Net1_35 Pin=P5-5
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Side PCB Member=Component * JST_SE5PIN
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component P3 JST_SE_5PIN
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component P4 JST_SE_5PIN
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component P5 JST_SE_5PIN
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component R1 SMD
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component R2 SMD
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component R7 SMD
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component R8 SMD
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component R9 SMD
+Added Room: Name=Side PCB
