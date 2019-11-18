@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component C6 SMD
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component C8 SMD
