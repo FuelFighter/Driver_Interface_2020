@@ -1,0 +1,20 @@
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(KAILH_LOW_PROFILE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(JST_SE_5PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=Net*_0 Pin=P?-2
+Added Pin To Net: NetName=+3.3 Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Side PCB Member=Component * KAILH_LOW_PROFILE
+Added Member To Class: ClassName=Side PCB Member=Component P? JST_SE_5PIN
+Added Room: Name=Side PCB
