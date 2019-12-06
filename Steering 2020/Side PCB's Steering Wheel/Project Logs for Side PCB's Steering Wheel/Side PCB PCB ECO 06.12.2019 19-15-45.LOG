@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=*? NewDesignator=*1
+Change Component Designator: OldDesignator=*? NewDesignator=*2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Net Name : Old Net Name=Net*?_0 New Net Name=Net*2_0
+Added Pin To Net: NetName=Net*1_0 Pin=*1-0
+Added Pin To Net: NetName=Net*1_0 Pin=P1-1
+Added Net: Name=Net*1_0
+Added Member To Class: ClassName=Side PCB Member=Component *1 KAILH_LOW_PROFILE
