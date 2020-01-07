@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=Net*1_0 Pin=*1-0
+Removed Pin From Net: NetName=+3.3 Pin=*1-1
+Removed Pin From Net: NetName=Net*1_0 Pin=P1-1
+Removed Pin From Net: NetName=Net*2_0 Pin=P1-2
+Removed Pin From Net: NetName=+3.3 Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Member From Class: ClassName=Side PCB Member=*1
+Change Component Footprint: Designator=P1 Old Footprint=JST_SE_5PIN New Footprint=PIN_HEADER_M_1x4
+Change Component Comment : Designator=P1 Old Comment=JST_SE_5PIN New Comment=1x4_M
+Added Component: Designator=P2(PIN_HEADER_M_1x4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*2_0 Pin=P1-1
+Added Pin To Net: NetName=+3.3 Pin=P1-2
+Added Pin To Net: NetName=Net*1_0 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=Net*2_0 Pin=P2-1
+Added Pin To Net: NetName=+3.3 Pin=P2-2
+Added Pin To Net: NetName=Net*1_0 Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Change Net Name : Old Net Name=Net*1_0 New Net Name=NetP1_3
+Added Member To Class: ClassName=Side PCB Member=Component P2 1x4_M

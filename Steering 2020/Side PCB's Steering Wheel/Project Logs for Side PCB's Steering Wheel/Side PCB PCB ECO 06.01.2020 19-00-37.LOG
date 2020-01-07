@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=P1 Old Footprint=PIN_HEADER_M_1x4 New Footprint=JST_SE_4PIN
+Change Component Footprint: Designator=P2 Old Footprint=PIN_HEADER_M_1x4 New Footprint=JST_SE_4PIN
+Change Component Comment : Designator=P1 Old Comment=1x4_M New Comment=JST_SE_4PIN
+Change Component Comment : Designator=P2 Old Comment=1x4_M New Comment=JST_SE_4PIN
+Change component parameters: Designator = "P1"; Footprint = "JST_SE_4PIN"; UniqueID = "\KGREABEE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier Link 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "JST_SE_4PIN"; UniqueID = "\IRKGZZGK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier Link 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
