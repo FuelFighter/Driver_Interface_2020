@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Dashboard.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ACRFUGMD
-
-[Document2]
 DocumentPath=Dashboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,6 +54,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUUQXJON
 
+[Document2]
+DocumentPath=Dashboard.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ACRFUGMD
+
 [Document3]
 DocumentPath=..\..\..\..\FF LIbraries\Altium_lib_2019\FF_component_lib.SchLib
 AnnotationEnabled=1
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JCCTPVIS
 
 [Document4]
 DocumentPath=..\..\..\..\FF LIbraries\Altium_lib_2019\FF_pcb_lib.PcbLib
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FYUKLTYG
 
 [Configuration1]
 Name=Sources
