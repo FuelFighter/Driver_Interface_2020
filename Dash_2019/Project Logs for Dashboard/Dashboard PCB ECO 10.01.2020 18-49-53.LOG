@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Member From Class: ClassName=Dashboard Member=R4
+Removed Member From Class: ClassName=Dashboard Member=R7
+Change Component Designator: OldDesignator=U? NewDesignator=U1

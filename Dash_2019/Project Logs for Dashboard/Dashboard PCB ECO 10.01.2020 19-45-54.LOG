@@ -1,0 +1,22 @@
+Added Component: Designator=U2(IL_710-2E_DIP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(IL_710-2E_DIP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=Net3_17 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetP8_3 Pin=U2-5
+Added Pin To Net: NetName=NetP8_2 Pin=U2-6
+Added Pin To Net: NetName=NetP8_1 Pin=U2-8
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=Net3_19 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetP7_3 Pin=U3-5
+Added Pin To Net: NetName=NetP7_2 Pin=U3-6
+Added Pin To Net: NetName=NetP7_1 Pin=U3-8
+Added Member To Class: ClassName=Dashboard Member=Component U2 IL_710-2E_DIGITAL_ISOLATOR
+Added Member To Class: ClassName=Dashboard Member=Component U3 IL_710-2E_DIGITAL_ISOLATOR

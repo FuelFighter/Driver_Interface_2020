@@ -1,0 +1,280 @@
+Removed Pin From Net: NetName=GND Pin=BL-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+5 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+5 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+5 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+5 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3V3 Pin=C11-2
+Removed Pin From Net: NetName=3V3 Pin=L1-1
+Removed Pin From Net: NetName=+5 Pin=L2-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=+5 Pin=R3-2
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=Screen2-4
+Removed Pin From Net: NetName=GND Pin=Screen2-5
+Removed Pin From Net: NetName=NetD1_1 Pin=U1-3
+Removed Pin From Net: NetName=3V3 Pin=U1-3V3_1
+Removed Pin From Net: NetName=NetD1_4 Pin=U1-4
+Removed Pin From Net: NetName=NetP2_8 Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-AGND
+Removed Pin From Net: NetName=GND Pin=U1-GND_1
+Removed Pin From Net: NetName=GND Pin=U1-GND_2
+Removed Pin From Net: NetName=+5 Pin=U1-VIN
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=+5 Pin=U4-3
+Removed Pin From Net: NetName=+5 Pin=U4-5
+Removed Member From Class: ClassName=Dashboard Member=BL
+Removed Member From Class: ClassName=Dashboard Member=C1
+Removed Member From Class: ClassName=Dashboard Member=C4
+Removed Member From Class: ClassName=Dashboard Member=C5
+Removed Member From Class: ClassName=Dashboard Member=C6
+Removed Member From Class: ClassName=Dashboard Member=C7
+Removed Member From Class: ClassName=Dashboard Member=C8
+Removed Member From Class: ClassName=Dashboard Member=C10
+Removed Member From Class: ClassName=Dashboard Member=C11
+Removed Member From Class: ClassName=Dashboard Member=L1
+Removed Member From Class: ClassName=Dashboard Member=L2
+Removed Member From Class: ClassName=Dashboard Member=R2
+Removed Member From Class: ClassName=Dashboard Member=R3
+Removed Member From Class: ClassName=Dashboard Member=R5
+Removed Member From Class: ClassName=Dashboard Member=R6
+Removed Member From Class: ClassName=Dashboard Member=Screen2
+Removed Member From Class: ClassName=Dashboard Member=U1
+Removed Member From Class: ClassName=Dashboard Member=U3
+Removed Member From Class: ClassName=Dashboard Member=U4
+Change Component Footprint: Designator=C2 Old Footprint=1608[0603] New Footprint=C_SMD_0805_pcb
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603] New Footprint=C_SMD_0805_pcb
+Change Component Footprint: Designator=J1 Old Footprint=TE_RJ11-6N-B New Footprint=RJ11_Connector
+Change Component Footprint: Designator=J2 Old Footprint=TE_RJ11-6N-B New Footprint=RJ11_Connector
+Change Component Comment : Designator=J1 Old Comment=6609212-4 New Comment=RJ11
+Change Component Comment : Designator=J2 Old Comment=6609212-4 New Comment=RJ11
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=SMD
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=SMD
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator= NewDesignator=P3
+Change Component Designator: OldDesignator=3V3 NewDesignator=1
+Change Component Designator: OldDesignator=5V NewDesignator=P6
+Change Component Designator: OldDesignator=CAN-J NewDesignator=P1
+Change Component Designator: OldDesignator=FL NewDesignator=FrontLights
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=Screen1 NewDesignator=P4
+Change Component Designator: OldDesignator=Serial3 NewDesignator=P5
+Change component parameters: Designator = "J1"; Footprint = "RJ11_Connector"; UniqueID = "\PLOAEMYB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "RJ11_Connector"; UniqueID = "\OKJRWORX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C_SMD_0805_pcb"; UniqueID = "\EGWWPCUD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C2"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C_SMD_0805_pcb"; UniqueID = "\EAGQFWUD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C3"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=3(teensy_3.6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HazardLights(JST_SE_2PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Reset(JST_SE_2PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S1(SWITCH_ATE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Wiper(JST_SE_2PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=3-3
+Added Pin To Net: NetName=NetD1_4 Pin=3-4
+Added Pin To Net: NetName=3V3 Pin=3-+3V3
+Added Pin To Net: NetName=3V3 Pin=3-+3V3
+Added Pin To Net: NetName=GND Pin=3-AGND
+Added Pin To Net: NetName=GND Pin=3-GND
+Added Pin To Net: NetName=GND Pin=3-GND
+Added Pin To Net: NetName=+5 Pin=3-VIN
+Added Pin To Net: NetName=GND Pin=HazardLights-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-6
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3V3 Pin=P3-3
+Added Pin To Net: NetName=GND Pin=Reset-2
+Added Pin To Net: NetName=3V3 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=Wiper-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=Net3_3
+Change Net Name : Old Net Name=NetD1_4 New Net Name=Net3_4
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=+12
+Added Pin To Net: NetName=Net3_0 Pin=3-0
+Added Pin To Net: NetName=Net3_0 Pin=P2-2
+Added Net: Name=Net3_0
+Added Pin To Net: NetName=Net3_1 Pin=3-1
+Added Pin To Net: NetName=Net3_1 Pin=P2-3
+Added Net: Name=Net3_1
+Added Pin To Net: NetName=Net3_2 Pin=3-2
+Added Pin To Net: NetName=Net3_2 Pin=P2-4
+Added Net: Name=Net3_2
+Added Pin To Net: NetName=Net3_5 Pin=3-5
+Added Pin To Net: NetName=Net3_5 Pin=P2-7
+Added Net: Name=Net3_5
+Added Pin To Net: NetName=Net3_6 Pin=3-6
+Added Net: Name=Net3_6
+Added Pin To Net: NetName=Net3_7 Pin=3-7
+Added Pin To Net: NetName=Net3_7 Pin=P2-9
+Added Net: Name=Net3_7
+Added Pin To Net: NetName=Net3_8 Pin=3-8
+Added Pin To Net: NetName=Net3_8 Pin=P2-10
+Added Net: Name=Net3_8
+Added Pin To Net: NetName=Net3_9 Pin=3-9
+Added Pin To Net: NetName=Net3_9 Pin=P2-11
+Added Net: Name=Net3_9
+Added Pin To Net: NetName=Net3_10 Pin=3-10
+Added Pin To Net: NetName=Net3_10 Pin=P2-12
+Added Net: Name=Net3_10
+Added Pin To Net: NetName=Net3_11 Pin=3-11
+Added Pin To Net: NetName=Net3_11 Pin=P2-13
+Added Net: Name=Net3_11
+Added Pin To Net: NetName=Net3_12 Pin=3-12
+Added Pin To Net: NetName=Net3_12 Pin=P2-14
+Added Net: Name=Net3_12
+Added Pin To Net: NetName=Net3_13 Pin=3-13
+Added Pin To Net: NetName=Net3_13 Pin=P3-14
+Added Net: Name=Net3_13
+Added Pin To Net: NetName=Net3_14 Pin=3-14
+Added Pin To Net: NetName=Net3_14 Pin=P3-13
+Added Net: Name=Net3_14
+Added Pin To Net: NetName=Net3_15 Pin=3-15
+Added Pin To Net: NetName=Net3_15 Pin=P3-12
+Added Net: Name=Net3_15
+Added Pin To Net: NetName=Net3_16 Pin=3-16
+Added Pin To Net: NetName=Net3_16 Pin=P3-11
+Added Net: Name=Net3_16
+Added Pin To Net: NetName=Net3_17 Pin=3-17
+Added Pin To Net: NetName=Net3_17 Pin=P3-10
+Added Net: Name=Net3_17
+Added Pin To Net: NetName=Net3_18 Pin=3-18
+Added Pin To Net: NetName=Net3_18 Pin=P3-9
+Added Net: Name=Net3_18
+Added Pin To Net: NetName=Net3_19 Pin=3-19
+Added Pin To Net: NetName=Net3_19 Pin=P3-8
+Added Net: Name=Net3_19
+Added Pin To Net: NetName=Net3_20 Pin=3-20
+Added Pin To Net: NetName=Net3_20 Pin=C2-2
+Added Pin To Net: NetName=Net3_20 Pin=FrontLights-1
+Added Pin To Net: NetName=Net3_20 Pin=P3-7
+Added Net: Name=Net3_20
+Added Pin To Net: NetName=Net3_21 Pin=3-21
+Added Pin To Net: NetName=Net3_21 Pin=P3-6
+Added Net: Name=Net3_21
+Added Pin To Net: NetName=Net3_22 Pin=3-22
+Added Pin To Net: NetName=Net3_22 Pin=P3-5
+Added Net: Name=Net3_22
+Added Pin To Net: NetName=Net3_23 Pin=3-23
+Added Pin To Net: NetName=Net3_23 Pin=P3-4
+Added Net: Name=Net3_23
+Added Pin To Net: NetName=Net3_24 Pin=3-24
+Added Pin To Net: NetName=Net3_24 Pin=P2-16
+Added Net: Name=Net3_24
+Added Pin To Net: NetName=Net3_25 Pin=3-25
+Added Pin To Net: NetName=Net3_25 Pin=P2-17
+Added Net: Name=Net3_25
+Added Pin To Net: NetName=Net3_26 Pin=3-26
+Added Pin To Net: NetName=Net3_26 Pin=P2-18
+Added Net: Name=Net3_26
+Added Pin To Net: NetName=Net3_27 Pin=3-27
+Added Pin To Net: NetName=Net3_27 Pin=P2-19
+Added Net: Name=Net3_27
+Added Pin To Net: NetName=Net3_28 Pin=3-28
+Added Pin To Net: NetName=Net3_28 Pin=P2-20
+Added Net: Name=Net3_28
+Added Pin To Net: NetName=Net3_29 Pin=3-29
+Added Pin To Net: NetName=Net3_29 Pin=P2-21
+Added Pin To Net: NetName=Net3_29 Pin=Wiper-1
+Added Net: Name=Net3_29
+Added Pin To Net: NetName=Net3_30 Pin=3-30
+Added Pin To Net: NetName=Net3_30 Pin=P2-22
+Added Pin To Net: NetName=Net3_30 Pin=Reset-1
+Added Net: Name=Net3_30
+Added Pin To Net: NetName=Net3_31 Pin=3-31
+Added Pin To Net: NetName=Net3_31 Pin=C3-2
+Added Pin To Net: NetName=Net3_31 Pin=HazardLights-1
+Added Pin To Net: NetName=Net3_31 Pin=P2-23
+Added Net: Name=Net3_31
+Added Pin To Net: NetName=Net3_32 Pin=3-32
+Added Pin To Net: NetName=Net3_32 Pin=P2-24
+Added Pin To Net: NetName=Net3_32 Pin=S1-2
+Added Net: Name=Net3_32
+Added Pin To Net: NetName=Net3_33 Pin=3-33
+Added Pin To Net: NetName=Net3_33 Pin=P3-24
+Added Net: Name=Net3_33
+Added Pin To Net: NetName=Net3_34 Pin=3-34
+Added Pin To Net: NetName=Net3_34 Pin=P3-23
+Added Net: Name=Net3_34
+Added Pin To Net: NetName=Net3_35 Pin=3-35
+Added Pin To Net: NetName=Net3_35 Pin=P3-22
+Added Net: Name=Net3_35
+Added Pin To Net: NetName=Net3_36 Pin=3-36
+Added Pin To Net: NetName=Net3_36 Pin=P3-21
+Added Net: Name=Net3_36
+Added Pin To Net: NetName=Net3_37 Pin=3-37
+Added Pin To Net: NetName=Net3_37 Pin=P3-20
+Added Net: Name=Net3_37
+Added Pin To Net: NetName=Net3_38 Pin=3-38
+Added Pin To Net: NetName=Net3_38 Pin=P3-19
+Added Net: Name=Net3_38
+Added Pin To Net: NetName=Net3_39 Pin=3-39
+Added Pin To Net: NetName=Net3_39 Pin=P3-18
+Added Net: Name=Net3_39
+Added Pin To Net: NetName=Net3_A21 Pin=3-A21
+Added Pin To Net: NetName=Net3_A21 Pin=P3-17
+Added Net: Name=Net3_A21
+Added Pin To Net: NetName=Net3_A22 Pin=3-A22
+Added Pin To Net: NetName=Net3_A22 Pin=P3-16
+Added Net: Name=Net3_A22
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Net: Name=NetP5_2
+Added Member To Class: ClassName=Dashboard Member=Component 1 Header 3X2
+Added Member To Class: ClassName=Dashboard Member=Component 3 teensy_3.6
+Added Member To Class: ClassName=Dashboard Member=Component GND1 Header 3X2
+Added Member To Class: ClassName=Dashboard Member=Component HazardLights
+Added Member To Class: ClassName=Dashboard Member=Component P1 Header 3
+Added Member To Class: ClassName=Dashboard Member=Component P2 Header 24
+Added Member To Class: ClassName=Dashboard Member=Component P3 Header 24
+Added Member To Class: ClassName=Dashboard Member=Component P6 Header 3X2
+Added Member To Class: ClassName=Dashboard Member=Component Reset
+Added Member To Class: ClassName=Dashboard Member=Component S1 SWITCH_3WAY_TOGGLE
+Added Member To Class: ClassName=Dashboard Member=Component Wiper
+Added Room: Name=Dashboard
