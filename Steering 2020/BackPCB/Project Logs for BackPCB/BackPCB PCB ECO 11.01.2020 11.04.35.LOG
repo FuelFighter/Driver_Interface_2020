@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Net3_32 Pin=BackLights-1
+Removed Pin From Net: NetName=GND Pin=BackLights-2
+Removed Member From Class: ClassName=BackPCB Member=BackLights

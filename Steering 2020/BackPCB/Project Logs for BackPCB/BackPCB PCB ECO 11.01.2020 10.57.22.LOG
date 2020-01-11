@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=Net3_19 Pin=3-19
+Removed Pin From Net: NetName=Net3_32 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=NetCANC1_1 Pin=CANC1-1
+Removed Pin From Net: NetName=NetP1_3 Pin=P1-3
+Removed Pin From Net: NetName=NetR1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-6
+Removed Pin From Net: NetName=NetCANC1_1 Pin=U1-7
+Removed Pin From Net: NetName=3V3 Pin=U2-1
+Removed Pin From Net: NetName=Net3_19 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=NetP1_3 Pin=U2-5
+Removed Member From Class: ClassName=BackPCB Member=P1
+Removed Member From Class: ClassName=BackPCB Member=U2
+Change Component Designator: OldDesignator=CANC1 NewDesignator=CANC
+Change Component Designator: OldDesignator=CANR1 NewDesignator=CANR
+Change component parameters: Designator = "C1"; Footprint = "C_SMD_0805_pcb"; UniqueID = "\INFLRDKA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R_SMD_0805_pcb"; UniqueID = "\SNGUNFYT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=J1(RJ11_Connector)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(RJ11_Connector)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net3_0 Pin=3-19
+Added Pin To Net: NetName=Net3_32 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=Net3_19 Pin=CANC-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetP1_3 Pin=J1-2
+Added Pin To Net: NetName=Net3_19 Pin=J1-3
+Added Pin To Net: NetName=NetCANC1_1 Pin=J1-4
+Added Pin To Net: NetName=NetR1_1 Pin=J1-5
+Added Pin To Net: NetName=+5 Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetP1_3 Pin=J2-2
+Added Pin To Net: NetName=Net3_19 Pin=J2-3
+Added Pin To Net: NetName=NetCANC1_1 Pin=J2-4
+Added Pin To Net: NetName=NetR1_1 Pin=J2-5
+Added Pin To Net: NetName=+5 Pin=J2-6
+Added Pin To Net: NetName=NetP1_3 Pin=R1-1
+Added Pin To Net: NetName=NetP1_3 Pin=U1-6
+Added Pin To Net: NetName=Net3_19 Pin=U1-7
+Change Net Name : Old Net Name=Net3_19 New Net Name=NetCANC_1
+Change Net Name : Old Net Name=NetCANC1_1 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetCANC1_2 New Net Name=NetCANC_2
+Change Net Name : Old Net Name=NetCANR1_1 New Net Name=NetCANR_1
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetJ1_5
+Added Member To Class: ClassName=BackPCB Member=Component 3 teensy_3.6
+Added Member To Class: ClassName=BackPCB Member=Component C3 SMD
+Added Member To Class: ClassName=BackPCB Member=Component J1 RJ11
+Added Member To Class: ClassName=BackPCB Member=Component J2 RJ11

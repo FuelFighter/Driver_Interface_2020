@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=NetC2_1 Pin=CANR-2
+Removed Member From Class: ClassName=BackPCB Member=C2
+Removed Member From Class: ClassName=BackPCB Member=CANR
+Removed Member From Class: ClassName=BackPCB Member=R2
+Change Component Designator: OldDesignator=CANC NewDesignator=CAN-term
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change component parameters: Designator = "R1"; Footprint = "R_SMD_0805_pcb"; UniqueID = "\TCNPKRGB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=CAN-term-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetCAN-term_2
+Change Net Name : Old Net Name=NetCANC_1 New Net Name=NetCAN-term_1
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP1_3
+Added Member To Class: ClassName=BackPCB Member=Component C1 SMD
