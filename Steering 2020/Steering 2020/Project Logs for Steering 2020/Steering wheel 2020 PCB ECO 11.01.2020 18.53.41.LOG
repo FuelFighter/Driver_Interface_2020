@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=Net1_29 Pin=P3-2
+Removed Pin From Net: NetName=+3.3 Pin=P3-3
+Removed Pin From Net: NetName=Net1_30 Pin=P3-4
+Removed Pin From Net: NetName=+3.3 Pin=P5-2
+Removed Pin From Net: NetName=Net1_35 Pin=P5-3
+Removed Pin From Net: NetName=GND Pin=P5-4
+Change Component Footprint: Designator=P3 Old Footprint=JST_SE_4PIN New Footprint=JST_SE_2PIN
+Change Component Footprint: Designator=P5 Old Footprint=JST_SE_4PIN New Footprint=JST_SE_2PIN
+Change Component Comment : Designator=P3 Old Comment=JST_SE_4PIN New Comment=JST_SE_2PIN
+Change Component Comment : Designator=P5 Old Comment=JST_SE_4PIN New Comment=JST_SE_2PIN
+Change component parameters: Designator = "P3"; Footprint = "JST_SE_2PIN"; UniqueID = "\NRURHJMF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5"; Footprint = "JST_SE_2PIN"; UniqueID = "\QTGEHJMF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P8(JST_SE_3PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P9(JST_SE_3PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_30 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=+3.3 Pin=P8-1
+Added Pin To Net: NetName=Net1_29 Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=+3.3 Pin=P9-1
+Added Pin To Net: NetName=Net1_35 Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component 1 teensy_3.6
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component P8 JST_SE_3PIN
+Added Member To Class: ClassName=Steering wheel 2020 Member=Component P9 JST_SE_3PIN
