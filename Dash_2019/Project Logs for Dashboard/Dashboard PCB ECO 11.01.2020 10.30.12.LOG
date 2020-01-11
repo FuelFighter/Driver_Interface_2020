@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3V3 Pin=C9-2
+Removed Pin From Net: NetName=NetR8_1 Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Member From Class: ClassName=Dashboard Member=C9
+Removed Member From Class: ClassName=Dashboard Member=R8
+Change Component Footprint: Designator=R1 Old Footprint=1608[0603] New Footprint=R_SMD_0805_pcb
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=SMD
+Change component parameters: Designator = "R1"; Footprint = "R_SMD_0805_pcb"; UniqueID = "\MLCHOYTM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR8_1 Pin=R2-2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR2_2
+Added Member To Class: ClassName=Dashboard Member=Component C1 SMD
+Added Member To Class: ClassName=Dashboard Member=Component R2 SMD

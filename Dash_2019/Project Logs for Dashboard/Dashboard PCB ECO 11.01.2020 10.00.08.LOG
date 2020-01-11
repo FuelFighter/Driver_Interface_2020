@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Haz.L NewDesignator=HazardLights
+Added Pin To Net: NetName=+5 Pin=J1-6
+Added Pin To Net: NetName=+5 Pin=J2-6
+Added Member To Class: ClassName=Dashboard Member=Component 3 teensy_3.6
+Added Member To Class: ClassName=Dashboard Member=Component J1 RJ11
+Added Member To Class: ClassName=Dashboard Member=Component Reset
