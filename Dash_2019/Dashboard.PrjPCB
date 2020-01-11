@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ACRFUGMD
 
 [Document3]
-DocumentPath=..\..\..\..\FF LIbraries\Altium_lib_2019\FF_component_lib.SchLib
+DocumentPath=..\..\Fuel_Fighter_Altium\FF_component_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JCCTPVIS
 
 [Document4]
-DocumentPath=..\..\..\..\FF LIbraries\Altium_lib_2019\FF_pcb_lib.PcbLib
+DocumentPath=..\..\Fuel_Fighter_Altium\FF_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FYUKLTYG
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Dashboard\Design Rule Check - Dashboard.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -224,7 +228,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HPFuelFighter (HP ENVY 4520 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
