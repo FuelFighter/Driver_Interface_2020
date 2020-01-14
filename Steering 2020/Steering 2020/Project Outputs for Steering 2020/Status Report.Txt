@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Steering 2020.PrjPcb]
+   Generated File[Steering wheel 2020.TXT]
+   Generated File[Steering wheel 2020.LDP]
+   Generated File[Steering wheel 2020.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19.16.10 On 14.01.2020
