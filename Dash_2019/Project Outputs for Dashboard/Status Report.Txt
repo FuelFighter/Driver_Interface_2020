@@ -1,35 +1,12 @@
-Output: Gerber X2 Files
-Type  : GerberX2
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [Dashboard.PrjPCB]
-   Generated File[Dashboard_Copper_Signal_Top.gbr]
-   Generated File[Dashboard_Copper_Signal_Bot.gbr]
-   Generated File[Dashboard_Pads_Bot.gbr]
-   Generated File[Dashboard_Pads_Top.gbr]
-   Generated File[Dashboard_Legend_Bot.gbr]
-   Generated File[Dashboard_Soldermask_Bot.gbr]
-   Generated File[Dashboard_Paste_Bot.gbr]
-   Generated File[Dashboard_Legend_Top.gbr]
-   Generated File[Dashboard_Paste_Top.gbr]
-   Generated File[Dashboard_Soldermask_Top.gbr]
-   Generated File[Dashboard_Keep-out.gbr]
-   Generated File[Dashboard_Mechanical_13.gbr]
-   Generated File[Dashboard_Mechanical_4.gbr]
-   Generated File[Dashboard_Mechanical_2.gbr]
-   Generated File[Dashboard_Mechanical_16.gbr]
-   Generated File[Dashboard_Mechanical_1.gbr]
-   Generated File[Dashboard_Mechanical_3.gbr]
-   Generated File[Dashboard_Mechanical_15.gbr]
-   Generated File[Dashboard_Profile.gbr]
-   Generated File[Dashboard_NPTH_Drill.gbr]
-   Generated File[Dashboard_PTH_Drill.gbr]
-   Generated File[Dashboard_Drawing_1.gbr]
-   Generated File[Dashboard_Drillmap_1.gbr]
-   Generated File[Dashboard.RUL]
-   Generated File[Dashboard.EXTREP]
-   Generated File[Dashboard.REP]
+   Generated File[Dashboard.TXT]
+   Generated File[Dashboard.LDP]
+   Generated File[Dashboard.DRR]
 
 
-Files Generated   : 26
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 21.53.35 On 14.01.2020
+Finished Output Generation At 23.47.16 On 14.01.2020

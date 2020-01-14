@@ -2,74 +2,97 @@
 FileName = Steering wheel 2020.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Steering wheel 2020_Copper_Signal_Top.gbr
+Generating : Dielectric 1
+      File : Steering wheel 2020.1
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Dielectric 1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Steering wheel 2020.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
     D11
-    D12
     D13
     D14
     D15
     D16
     D17
     D18
-    D19
+    D30
+    D31
+    D32
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Steering wheel 2020_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
+Generating : Multi-Layer
+      File : Steering wheel 2020.GML
 
     Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : Steering wheel 2020.GM2
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Steering wheel 2020.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
     D10
     D11
-    D12
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
+    D33
+    D34
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Steering wheel 2020_Pads_Bot.gbr
+Generating : Top Solder
+      File : Steering wheel 2020.GTS
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Solder
 
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D15
-    D16
-    D17
-    D18
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Steering wheel 2020_Pads_Top.gbr
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Top Layer
 
@@ -77,7 +100,9 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D10
+    D11
+    D13
+    D14
     D15
     D16
     D17
@@ -85,13 +110,116 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Steering wheel 2020_Legend_Bot.gbr
+Generating : Mechanical 1
+      File : Steering wheel 2020.GM1
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Steering wheel 2020.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Steering wheel 2020.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Steering wheel 2020.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Steering wheel 2020.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Steering wheel 2020.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Steering wheel 2020.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D19
+    D20
+    D21
+    D22
     D23
     D24
     D25
@@ -99,216 +227,99 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Steering wheel 2020_Soldermask_Bot.gbr
+Generating : Mechanical 3
+      File : Steering wheel 2020.GM3
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Steering wheel 2020_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Steering wheel 2020_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Steering wheel 2020_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Steering wheel 2020_Soldermask_Top.gbr
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D31
-    D32
-    D33
-    D34
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Steering wheel 2020_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Steering wheel 2020_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Board
-      File : Steering wheel 2020_Mechanical_2.gbr
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Steering wheel 2020_Mechanical_1.gbr
+    Adding Layer      : Mechanical 3
 
     Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D26
+    D11
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 3
-      File : Steering wheel 2020_Mechanical_3.gbr
+Generating : Top Pad Master
+      File : Steering wheel 2020.GPT
 
-    Adding Layer      : Mechanical 3
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D26
+    D11
+    D12
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 15
-      File : Steering wheel 2020_Mechanical_15.gbr
+      File : Steering wheel 2020.GM15
 
     Adding Layer      : Mechanical 15
 
+    Adding Layer      : Mechanical 1
+
 
 Used DCodes :
+    D11
+    D35
     D36
-    D37
 *************************************************************
 
 *************************************************************
-Generating : Profile
-      File : Steering wheel 2020_Profile.gbr
+Generating : Bottom Pad Master
+      File : Steering wheel 2020.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D38
+    D11
+    D12
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
-Generating : Non-plated through-hole drill file
-      File : Steering wheel 2020_NPTH_Drill.gbr
+Generating : Bottom Layer
+      File : Steering wheel 2020.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Plated through-hole drill file
-      File : Steering wheel 2020_PTH_Drill.gbr
-
-
-Used DCodes :
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : Steering wheel 2020_Drawing_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Steering wheel 2020_Drillmap_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D48
+    D11
+    D12
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 

@@ -2,130 +2,18 @@
 FileName = Dashboard.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Dashboard_Copper_Signal_Top.gbr
+Generating : Dielectric 1
+      File : Dashboard.1
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Dielectric 1
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Dashboard_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Dashboard_Pads_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Dashboard_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Dashboard_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Dashboard_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : Dashboard_Paste_Bot.gbr
+      File : Dashboard.GBP
 
     Adding Layer      : Bottom Paste
 
@@ -139,21 +27,32 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Overlay
-      File : Dashboard_Legend_Top.gbr
+      File : Dashboard.GTO
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D33
-    D34
-    D35
-    D36
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : Dashboard.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D12
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : Dashboard_Paste_Top.gbr
+      File : Dashboard.GTP
 
     Adding Layer      : Top Paste
 
@@ -163,16 +62,65 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
     D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Dashboard.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Dashboard.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Dashboard.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Dashboard.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D39
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : Dashboard_Soldermask_Top.gbr
+      File : Dashboard.GTS
 
     Adding Layer      : Top Solder
 
@@ -182,44 +130,152 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
     D26
     D27
     D28
     D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Dashboard.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Dashboard.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : Dashboard.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Dashboard.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Dashboard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
     D30
     D31
     D32
+    D33
+    D34
+    D35
+    D36
     D37
-    D38
-    D39
-    D40
-    D41
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : Dashboard_Keep-out.gbr
+Generating : Board
+      File : Dashboard.GM2
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Dashboard.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : Dashboard_Mechanical_13.gbr
+Generating : Bottom Solder
+      File : Dashboard.GBS
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D42
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 4
-      File : Dashboard_Mechanical_4.gbr
+      File : Dashboard.GM4
 
     Adding Layer      : Mechanical 4
 
@@ -228,122 +284,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board
-      File : Dashboard_Mechanical_2.gbr
+Generating : Bottom Layer
+      File : Dashboard.GBL
 
-    Adding Layer      : Board
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D12
+    D32
+    D33
+    D34
     D35
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : Dashboard_Mechanical_16.gbr
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Dashboard_Mechanical_1.gbr
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : Dashboard_Mechanical_3.gbr
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Dashboard_Mechanical_15.gbr
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D35
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : Dashboard_Profile.gbr
-
-
-Used DCodes :
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Non-plated through-hole drill file
-      File : Dashboard_NPTH_Drill.gbr
-
-
-Used DCodes :
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Plated through-hole drill file
-      File : Dashboard_PTH_Drill.gbr
-
-
-Used DCodes :
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : Dashboard_Drawing_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Dashboard_Drillmap_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D58
+    D36
+    D37
+    D38
 *************************************************************
 

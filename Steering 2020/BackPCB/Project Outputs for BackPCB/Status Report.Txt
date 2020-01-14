@@ -1,33 +1,12 @@
-Output: Gerber X2 Files
-Type  : GerberX2
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [BackPCB.PrjPcb]
-   Generated File[BackPCB_Copper_Signal_Top.gbr]
-   Generated File[BackPCB_Copper_Signal_Bot.gbr]
-   Generated File[BackPCB_Pads_Bot.gbr]
-   Generated File[BackPCB_Pads_Top.gbr]
-   Generated File[BackPCB_Legend_Bot.gbr]
-   Generated File[BackPCB_Soldermask_Bot.gbr]
-   Generated File[BackPCB_Paste_Bot.gbr]
-   Generated File[BackPCB_Legend_Top.gbr]
-   Generated File[BackPCB_Paste_Top.gbr]
-   Generated File[BackPCB_Soldermask_Top.gbr]
-   Generated File[BackPCB_Keep-out.gbr]
-   Generated File[BackPCB_Mechanical_13.gbr]
-   Generated File[BackPCB_Mechanical_2.gbr]
-   Generated File[BackPCB_Mechanical_1.gbr]
-   Generated File[BackPCB_Mechanical_3.gbr]
-   Generated File[BackPCB_Mechanical_15.gbr]
-   Generated File[BackPCB_Profile.gbr]
-   Generated File[BackPCB_NPTH_Drill.gbr]
-   Generated File[BackPCB_PTH_Drill.gbr]
-   Generated File[BackPCB_Drawing_1.gbr]
-   Generated File[BackPCB_Drillmap_1.gbr]
-   Generated File[BackPCB.RUL]
-   Generated File[BackPCB.EXTREP]
-   Generated File[BackPCB.REP]
+   Generated File[BackPCB.TXT]
+   Generated File[BackPCB.LDP]
+   Generated File[BackPCB.DRR]
 
 
-Files Generated   : 24
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 21.57.11 On 14.01.2020
+Finished Output Generation At 23.54.00 On 14.01.2020
