@@ -1,12 +1,33 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Project [Steering 2020.PrjPcb]
-   Generated File[Steering wheel 2020.TXT]
-   Generated File[Steering wheel 2020.LDP]
-   Generated File[Steering wheel 2020.DRR]
+   Generated File[Steering wheel 2020_Copper_Signal_Top.gbr]
+   Generated File[Steering wheel 2020_Copper_Signal_Bot.gbr]
+   Generated File[Steering wheel 2020_Pads_Bot.gbr]
+   Generated File[Steering wheel 2020_Pads_Top.gbr]
+   Generated File[Steering wheel 2020_Legend_Bot.gbr]
+   Generated File[Steering wheel 2020_Soldermask_Bot.gbr]
+   Generated File[Steering wheel 2020_Paste_Bot.gbr]
+   Generated File[Steering wheel 2020_Legend_Top.gbr]
+   Generated File[Steering wheel 2020_Paste_Top.gbr]
+   Generated File[Steering wheel 2020_Soldermask_Top.gbr]
+   Generated File[Steering wheel 2020_Keep-out.gbr]
+   Generated File[Steering wheel 2020_Mechanical_13.gbr]
+   Generated File[Steering wheel 2020_Mechanical_2.gbr]
+   Generated File[Steering wheel 2020_Mechanical_1.gbr]
+   Generated File[Steering wheel 2020_Mechanical_3.gbr]
+   Generated File[Steering wheel 2020_Mechanical_15.gbr]
+   Generated File[Steering wheel 2020_Profile.gbr]
+   Generated File[Steering wheel 2020_NPTH_Drill.gbr]
+   Generated File[Steering wheel 2020_PTH_Drill.gbr]
+   Generated File[Steering wheel 2020_Drawing_1.gbr]
+   Generated File[Steering wheel 2020_Drillmap_1.gbr]
+   Generated File[Steering wheel 2020.RUL]
+   Generated File[Steering wheel 2020.EXTREP]
+   Generated File[Steering wheel 2020.REP]
 
 
-Files Generated   : 3
+Files Generated   : 24
 Documents Printed : 0
 
-Finished Output Generation At 19.16.10 On 14.01.2020
+Finished Output Generation At 21.53.58 On 14.01.2020
