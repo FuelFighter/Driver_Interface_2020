@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Net3_7 Pin=P2-9
+Removed Pin From Net: NetName=Net3_13 Pin=P3-14
+Removed Pin From Net: NetName=Net3_7 Pin=P4-3
+Change Component Comment : Designator=P11 Old Comment=3V3 New Comment=Header 3X2
+Change Component Designator: OldDesignator=HazLights NewDesignator=HazardLights
+Added Pin To Net: NetName=Net3_13 Pin=P2-9
+Added Pin To Net: NetName=Net3_13 Pin=P4-3
+Added Pin To Net: NetName=NetP3_14 Pin=P3-14
+Added Net: Name=NetP3_14
+Added Member To Class: ClassName=Dashboard Member=Component 3 teensy_3.6
+Added Member To Class: ClassName=Dashboard Member=Component C1 SMD
+Added Member To Class: ClassName=Dashboard Member=Component HazardLights
+Added Member To Class: ClassName=Dashboard Member=Component J1 RJ11
+Added Member To Class: ClassName=Dashboard Member=Component P9 F.Light
+Added Member To Class: ClassName=Dashboard Member=Component P10 Header 3X2
+Added Member To Class: ClassName=Dashboard Member=Component P11 Header 3X2
+Added Member To Class: ClassName=Dashboard Member=Component R2 SMD
+Added Member To Class: ClassName=Dashboard Member=Component Reset

@@ -1,0 +1,13 @@
+Change Physical Footprint: Designator=3 Old Footprint=teensy_3.6 New Footprint=teensy_3.6
+Change Physical Footprint: Designator=HazardLights Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
+Change Physical Footprint: Designator=J1 Old Footprint=RJ11_Connector New Footprint=RJ11_Connector
+Change Physical Footprint: Designator=J2 Old Footprint=RJ11_Connector New Footprint=RJ11_Connector
+Change Physical Footprint: Designator=P4 Old Footprint=JST_SE_5PIN New Footprint=JST_SE_5PIN
+Change Physical Footprint: Designator=P6 Old Footprint=HDR2X3 New Footprint=HDR2X3
+Change Physical Footprint: Designator=P7 Old Footprint=PIN_HEADER_M_1x3 New Footprint=PIN_HEADER_M_1x3
+Change Physical Footprint: Designator=P8 Old Footprint=PIN_HEADER_M_1x3 New Footprint=PIN_HEADER_M_1x3
+Change Physical Footprint: Designator=P9 Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
+Change Physical Footprint: Designator=P10 Old Footprint=HDR2X3 New Footprint=HDR2X3
+Change Physical Footprint: Designator=P11 Old Footprint=HDR2X3 New Footprint=HDR2X3
+Change Physical Footprint: Designator=Reset Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
+Change Physical Footprint: Designator=Wiper Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
