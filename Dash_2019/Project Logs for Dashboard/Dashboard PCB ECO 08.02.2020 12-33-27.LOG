@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Net3_20 Pin=R3-1
+Removed Member From Class: ClassName=Dashboard Member=R3
+Change Component Comment : Designator=P6 Old Comment=+5 New Comment=Header 3X2
+Change Component Comment : Designator=P11 Old Comment=3V3 New Comment=Header 3X2
+Change Component Comment : Designator=P10 Old Comment=GND New Comment=Header 3X2
+Change Component Designator: OldDesignator=HazardLights NewDesignator=P5
+Change Component Designator: OldDesignator=Reset NewDesignator=P13
+Change Component Designator: OldDesignator=Wiper NewDesignator=P12
+Added Component: Designator=C2(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C2"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Net3_20 Pin=C2-2
+Added Pin To Net: NetName=Net3_20 Pin=P3-7
+Added Pin To Net: NetName=Net3_20 Pin=P9-1
+Added Member To Class: ClassName=Dashboard Member=Component C2 SMD
