@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net3_35 Pin=P3-22
+Change Component Comment : Designator=P11 Old Comment=3V3 New Comment=Header 3X2
+Change Component Comment : Designator=P5 Old Comment=HazLights New Comment=HazardLights
+Added Component: Designator=P14(JST_SE_2PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net3_35 Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=NetP3_22 Pin=P3-22
+Added Net: Name=NetP3_22
+Added Member To Class: ClassName=Dashboard Member=Component P14 Br. Light
