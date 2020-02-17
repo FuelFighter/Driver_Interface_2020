@@ -1,0 +1,15 @@
+Change Physical Footprint: Designator=1 Old Footprint=teensy_3.6 New Footprint=teensy_3.6
+Change Physical Footprint: Designator=3V3 Old Footprint=PIN_HEADER_M_2x3 New Footprint=PIN_HEADER_M_2x3
+Change Physical Footprint: Designator=5V Old Footprint=PIN_HEADER_M_2x3 New Footprint=PIN_HEADER_M_2x3
+Change Physical Footprint: Designator=Blink Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
+Change Physical Footprint: Designator=Blink Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
+Change Physical Footprint: Designator=Brake Old Footprint=JST_SE_3PIN New Footprint=JST_SE_3PIN
+Change Physical Footprint: Designator=CANC Old Footprint=PIN_HEADER_M_1x3 New Footprint=PIN_HEADER_M_1x3
+Change Physical Footprint: Designator=CANR Old Footprint=PIN_HEADER_M_1x3 New Footprint=PIN_HEADER_M_1x3
+Change Physical Footprint: Designator=GND Old Footprint=PIN_HEADER_M_2x3 New Footprint=PIN_HEADER_M_2x3
+Change Physical Footprint: Designator=Horn Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
+Change Physical Footprint: Designator=Lapc Old Footprint=JST_SE_2PIN New Footprint=JST_SE_2PIN
+Change Physical Footprint: Designator=P1 Old Footprint=PIN_HEADER_M_1x24 New Footprint=PIN_HEADER_M_1x24
+Change Physical Footprint: Designator=P2 Old Footprint=PIN_HEADER_M_1x24 New Footprint=PIN_HEADER_M_1x24
+Change Physical Footprint: Designator=P4 Old Footprint=JST_SE_4PIN New Footprint=JST_SE_4PIN
+Change Physical Footprint: Designator=Throttle Old Footprint=JST_SE_3PIN New Footprint=JST_SE_3PIN
