@@ -209,6 +209,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Dashboard\Dashboard.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Dashboard\Design Rule Check - Dashboard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
